@@ -1,0 +1,42 @@
+/* General Rules Starts here */
+*{
+    margin: 0;
+    padding: 0;
+    -webkit-box-sizing: border-box;
+    -ms-box-sizing: border-box;
+    box-sizing: border-box;
+}
+body{
+    background-color: hsl(212, 45%, 89%);
+    font-size: 15px;
+    display: flex;
+    /* flex-direction: column; */
+    justify-content: center;
+    align-items: center;
+    min-height: 100vh;
+}
+/* General Rules Ends here */
+
+/* QR Code Starts here */
+.container{
+    /* margin: 50px auto; */
+    width: 250px;
+    padding: 15px;
+    background-color: hsl(0, 0%, 100%);
+    border-radius: 20px;
+}
+.container > img{
+    max-width: 100%;
+    /* padding: 15px; */
+    border-radius: 10px;
+}
+p, h3, .attribution{
+    text-align: center;
+    margin: 10px;
+    color: hsl(220, 15%, 55%);
+}
+h3{
+    color: black;
+}
+.attribution { font-size: 11px;}
+/* QR Code Ends here */
