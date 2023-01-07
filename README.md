@@ -1,5 +1,6 @@
 # It's my first project on Front-end Mentor.
-myfirst-qrcode-component.netlify.app
+https://myfirst-qrcode-component.netlify.app/
+
 
 ## I will keep solving Challenges in this amazing website and publish them on my account here in github
 
